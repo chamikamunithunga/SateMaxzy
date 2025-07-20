@@ -2,6 +2,13 @@
 
 An AI-powered application that generates human-readable environmental reports from satellite imagery using advanced machine learning and natural language processing.
 
+
+
+
+
+
+
+
 ## 🌟 Features
 
 - **Real Satellite Data Integration**: Fetch satellite imagery from NASA APIs, Sentinel Hub, and Google Earth Engine
